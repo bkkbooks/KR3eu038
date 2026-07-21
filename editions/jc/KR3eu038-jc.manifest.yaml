@@ -17,14 +17,14 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 1, filename: KR3eu038_001-jc.yaml, hash: 'sha256:239990c228417a5bf423f6956ac903cbb7146522f9be5c6587eaf638e59e5c06'}
+  - {seq: 1, filename: KR3eu038_001-jc.yaml, hash: 'sha256:a581243cda32418d35e0f51ba2bb6e3e0d36bed9b84c0a56d1e9d48c2b96cea9'}
   - {seq: 2, filename: KR3eu038_002-jc.yaml, hash: 'sha256:8d35e6f8023c0f573c55d04835ad1ec812257bb1dafa2f7d32cfbdf956979810'}
   - {seq: 3, filename: KR3eu038_003-jc.yaml, hash: 'sha256:3578c8e4905ec3c12fd0260ef712056efddaa6934dd7ab94709be650e3bae4a0'}
   - {seq: 4, filename: KR3eu038_004-jc.yaml, hash: 'sha256:296c8bd44c6ca6e23bedaecc4307b5c2807ce7e985efffdc8a926f037d4722d7'}
   - {seq: 5, filename: KR3eu038_005-jc.yaml, hash: 'sha256:de4a94d60c759e1c138b867894e5d3c11d3bb10ef96f8d8f26364f60876e751e'}
   - {seq: 6, filename: KR3eu038_006-jc.yaml, hash: 'sha256:0018ae54d3dcc97f25fbfcfbae0c28f46cf71057c25ed0c540f2299aa84c0793'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3eu038_001-jc.markers.yaml, hash: 'sha256:8e9d9da40d87018480ec88d3873412c13fad68cd7dff5c63119fe801e3146c2a'}
+  - {seq: 1, role: markers, filename: assets/KR3eu038_001-jc.markers.yaml, hash: 'sha256:0f2385c3015f3195050f728563255e3a40729713417a1c89b388d162eb5f52f2'}
   - {seq: 2, role: markers, filename: assets/KR3eu038_002-jc.markers.yaml, hash: 'sha256:763c11e726cb5ec6afd3cbcca84efbb601fbba6f32483dee4bd94682e02bd526'}
   - {seq: 3, role: markers, filename: assets/KR3eu038_003-jc.markers.yaml, hash: 'sha256:ae066bb29bd9afb7c4a23649c5454479828947315118f9dafe9f6381627e4840'}
   - {seq: 4, role: markers, filename: assets/KR3eu038_004-jc.markers.yaml, hash: 'sha256:f0b5059e9b2646248fafd1a370baad0684169122c2caf1ea362e3d2bb1a0d2c3'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3eu038_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 463
   label: 自序一
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3eu038_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 463
     - 719
   label: 自序二
@@ -4241,4 +4241,4 @@ table_of_contents:
   label: 種痘源流
   type: section
   level: 3
-hash: sha256:3515a7d2b7bc52a3cf63dca66fd2ca6dd24214fe665ac08acddcf6c6b2500378
+hash: sha256:180d7fb54bbb54ca963f2b21598f65630cd4ae2e73dc4f8be5d308ba6269b172

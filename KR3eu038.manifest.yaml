@@ -17,14 +17,14 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3eu038_001.yaml, hash: 'sha256:40391a175c0765797ad6cd439f2510d7bde423983af58a7658e294a712c949fb'}
+  - {seq: 1, filename: KR3eu038_001.yaml, hash: 'sha256:71bfd29de14f7a989a1b7ae2e367ccf59fe1d2ee6b3c542eb0adeb835fbc6134'}
   - {seq: 2, filename: KR3eu038_002.yaml, hash: 'sha256:f3be6a075abefbd9e3cd0757a66199afe27dd42d61ebc6b411dfb0a4a8037b78'}
   - {seq: 3, filename: KR3eu038_003.yaml, hash: 'sha256:b60c879f7ea4ff42f26628f90a13166583565876c4259db07c9af5f1a40636bf'}
   - {seq: 4, filename: KR3eu038_004.yaml, hash: 'sha256:7f5103ab5415c544d1b867b07623c7997afbf0d655c739e781de81ec6d715b75'}
   - {seq: 5, filename: KR3eu038_005.yaml, hash: 'sha256:e3ff60847544a0c5d4c4b2ec017dd830b8b05c7624907f0397fb018b7173e072'}
   - {seq: 6, filename: KR3eu038_006.yaml, hash: 'sha256:09fe9c6ba464039a38789099ce6464522353ee1cff121caa993201accbaf3e10'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3eu038_001.markers.yaml, hash: 'sha256:b9c3af5e4108185093727284d5bc1b5a23e4741400d0fce776b1a5c8fd7bf373'}
+  - {seq: 1, role: markers, filename: assets/KR3eu038_001.markers.yaml, hash: 'sha256:854ac2efe49eaa0b7683c7be3c29e1dcd7e31195524507c62f52a995ad1dac8c'}
   - {seq: 2, role: markers, filename: assets/KR3eu038_002.markers.yaml, hash: 'sha256:a6ab5b403d728a2e02f3d602894aea96b51fb7112abdc8adea357c44fa7d14a9'}
   - {seq: 3, role: markers, filename: assets/KR3eu038_003.markers.yaml, hash: 'sha256:ee01efeb5fb5394e24b67e39b885cc47d4de7660d99448de75be167ef980c075'}
   - {seq: 4, role: markers, filename: assets/KR3eu038_004.markers.yaml, hash: 'sha256:95fa4946a92ecfb055900cf4a4d2ef2c9a6f2422cae7b5e2f21635077a053ba4'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3eu038_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 463
   label: 自序一
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3eu038_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 463
     - 719
   label: 自序二
@@ -4241,7 +4241,7 @@ table_of_contents:
   label: 種痘源流
   type: section
   level: 3
-hash: sha256:6a3db93208b5840f09942674ca4488274f78328a6e641c7c2e4306d7b929831e
+hash: sha256:69afa220b951a15396348b246cd5fe83d9133aa69d5b7ce680169c89b9ce24b6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
